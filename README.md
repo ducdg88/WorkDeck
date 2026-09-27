@@ -1,5 +1,8 @@
 # WorkDeck
 
+
+**Stop juggling ten browser tabs of AI tools → open one desktop workspace that holds every one of them.**
+
 An Electron desktop app that gathers a solo founder's AI tools and web apps into one workspace.
 
 
